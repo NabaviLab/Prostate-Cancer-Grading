@@ -19,7 +19,7 @@ This repository contains the implementation of a **Graph Laplacian Attention-Bas
 ---
 
 ## 📊 **Datasets**
-We evaluated the model on **five public** and **one private dataset**:
+We evaluated the model on **five public** and **one private dataset (UConn Health Center Dataset)**:
 
 | Dataset       | WSIs Count | Gleason Labels | Notes |
 |--------------|------------|---------------|---------------------|
